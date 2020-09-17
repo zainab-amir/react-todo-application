@@ -11,7 +11,7 @@ function App() {
     <div className="App">
       <Card>
         <CardContent>
-          <Typography variant="h4" gutterBottom>Checklist</Typography>
+          <Typography variant="h4" gutterBottom>My Checklist</Typography>
           <AddTodo></AddTodo>
           <TodoList></TodoList>
         </CardContent>
